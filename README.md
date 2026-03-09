@@ -8,11 +8,11 @@ Data Science Student | Data Analysis | Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
----
-          
 ![Header](https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=👋Hi,%20my%20name%20is%20Josias&fontColor=556B2F&fontSize=40)
 ![Subtitle](https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=Data%20Science%20Student&fontColor=000000&fontSize=25)
 
+---
+          
 ### **ABOUT ME**
 **Currently transitioning into the Data field, focusing on Python, SQL, data analysis and Power BI. Interested in turning data into insights and supporting data-driven decision making. I have over 9 years of experience in the healthcare field, working with medical imaging technologies including CT (Computed Tomography), X-Ray and MRI (Magnetic Resonance Imaging).**
 
