@@ -4,8 +4,6 @@
 ![Subtitle](https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=Data%20Science%20Student&fontColor=556B2F&fontSize=25)
 
 
-### Data Science Student
-
 Currently transitioning into the Data field, focusing on Python, SQL, data analysis and Power BI. Interested in turning data into insights and supporting data-driven decision making.
 
 - 🌎 Based in Brazil
