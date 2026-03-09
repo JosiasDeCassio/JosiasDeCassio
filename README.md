@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=120&section=header"/>
           
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=120&section=header"/>
 
 <h1 align="center" style="color:#556B2F;">Hello, my name is Josias</h1>
 <h3 align="center" style="color:#556B2F;">Data Science Student</h3>
