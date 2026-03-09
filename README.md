@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=220&section=header"/>
 
-<h2 align="center">Hello, I am Josias</h2>
-
 <p align="center">
 Data Science Student | Data Analysis | Machine Learning
 </p>
