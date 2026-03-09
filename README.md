@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0A2540&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2D2D2D&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#2E8B57&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Josias+de+Cassio;I'm+30+years+old;I'm+from+Brazil;Data+Scientist+student;Be+Welcome!)](https://git.io/typing-svg)
 
