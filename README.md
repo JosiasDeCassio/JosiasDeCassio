@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=220&section=header"/>
 
 <p align="center">
-Data Science Student | Data Analysis | Machine Learning
+<h3 align="center">Data Science Student | Data Analysis | Machine Learning</h3>
 </p>
 
 
