@@ -17,7 +17,7 @@ Projects in development involving:
 - SQL data exploration
 - Power BI dashboards
 
-### Data Science Stack
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
