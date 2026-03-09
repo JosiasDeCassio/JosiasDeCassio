@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=200&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=220&section=header"/>
           
 ![Header](https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=👋Hi,%20my%20name%20is%20Josias&fontColor=556B2F&fontSize=40)
 ![Subtitle](https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=Data%20Science%20Student&fontColor=000000&fontSize=25)
