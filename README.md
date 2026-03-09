@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=120&section=header"/>
           
 
-<h1 align="center" style="color:#556B2F;">Hello, my name is Josias</h1>
-<h3 align="center" style="color:#556B2F;">Data Science Student</h3>
+![Header](https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Hello%20my%20name%20is%20Josias&fontColor=556B2F&fontSize=40)
+
+![Subtitle](https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=Data%20Science%20Student&fontColor=556B2F&fontSize=25)
 
  ### Main skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
