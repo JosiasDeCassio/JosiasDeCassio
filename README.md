@@ -3,8 +3,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=👋Hi,%20my%20name%20is%20Josias&fontColor=556B2F&fontSize=40)
 ![Subtitle](https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=Data%20Science%20Student&fontColor=556B2F&fontSize=25)
 
-
+---
 Currently transitioning into the Data field, focusing on Python, SQL, data analysis and Power BI. Interested in turning data into insights and supporting data-driven decision making.
+
+---
 
 - 🌎 Based in Brazil
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/)
@@ -12,14 +14,16 @@ Currently transitioning into the Data field, focusing on Python, SQL, data analy
 - 📚 Currently learning Data Science, Python and SQL
 - 🤝 Looking to collaborate on data projects
 - 🌐 Languages: Portuguese and English
-  --
+
+  ---
 
  ### Main skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-556B2F?style=for-the-badge&logo=chartdotjs&logoColor=white)
---
+
+---
 
 ### Projects (coming soon)
 
