@@ -24,9 +24,7 @@ Currently transitioning into the Data field, focusing on Python, SQL, data analy
 
 ---
 
-### Projects (coming soon)
-
-Currently transitioning into Data Science.  
+### Projects (coming soon)  
 Projects in development involving:
 
 - Data analysis with Python
