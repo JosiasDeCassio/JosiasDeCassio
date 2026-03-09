@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=220&section=header"/>
-![header](https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=200&section=header&text=Welcome%20to%20my%20Portfolio&fontSize=40&fontColor=ffffff)
 
 <h2 align="center">Hello, I am Josias</h2>
 
