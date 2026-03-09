@@ -1,13 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=220&section=header"/>
-
 <p align="center">
-<h3 align="center"> Data Analysis | Machine Learning</h3>
+<h3 align="center"> Data Science Student | Data Analysis | Machine Learning</h3>
 </p>
 
 
-![Header](https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Hi,%20my%20name%20is%20Josias&fontColor=556B2F&fontSize=40)![Subtitle](https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=Data%20Science%20Student&fontColor=000000&fontSize=25)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=556B2F&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Josias.;)](https://git.io/typing-svg)
 
-<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
